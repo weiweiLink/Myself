@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>img/7aa0995c1ddfbd63fe65e9aea65fa9e0.jpg</file>
+    <file>img/36aff965c35636526d572abd7363ba30.jpg</file>
+    <file>img/634f6678718c91d689c6d4e4058fe5cc.jpeg</file>
+    <file>img/896b9d3f8c7ebdf3ce07347e0ed68912.jpeg</file>
+    <file>img/08528dc614e93cb78feb1c584ece8534.jpg</file>
+    <file>img/1234.jpg</file>	
+    <file>img/3.jpg</file>	
+  </qresource>
+</RCC>
